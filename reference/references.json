@@ -521,6 +521,12 @@
         "language": "C#"
       },
       {
+        "url": "https://github.com/exercism/v3/tree/master/languages/java/exercises/concept/classes",
+        "exercise": "classes",
+        "track": "java",
+        "language": "Java"
+      },
+      {
         "url": "https://github.com/exercism/v3/tree/master/languages/swift/exercises/concept/structs-and-classes",
         "exercise": "structs-and-classes",
         "track": "swift",
