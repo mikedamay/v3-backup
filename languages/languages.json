@@ -3625,8 +3625,8 @@
           "prerequisites": []
         },
         {
-          "url": "https://github.com/exercism/v3/tree/master/languages/julia/exercises/concept/boolean-logic",
-          "slug": "boolean-logic",
+          "url": "https://github.com/exercism/v3/tree/master/languages/julia/exercises/concept/annalyns-infiltration",
+          "slug": "annalyns-infiltration",
           "concepts": [
             {
               "url": "https://github.com/exercism/v3/tree/master/reference/concepts/boolean_logic.md",
@@ -3641,6 +3641,22 @@
             {
               "url": null,
               "name": "functions-introduction"
+            }
+          ]
+        },
+        {
+          "url": "https://github.com/exercism/v3/tree/master/languages/julia/exercises/concept/annalyns-infiltration2",
+          "slug": "annalyns-infiltration2",
+          "concepts": [
+            {
+              "url": null,
+              "name": "randomness"
+            }
+          ],
+          "prerequisites": [
+            {
+              "url": "https://github.com/exercism/v3/tree/master/reference/types/boolean.md",
+              "name": "booleans"
             }
           ]
         },
@@ -3973,6 +3989,34 @@
           ]
         },
         {
+          "url": "https://github.com/exercism/v3/tree/master/languages/python/exercises/concept/pretty-leaflet",
+          "slug": "pretty-leaflet",
+          "concepts": [
+            {
+              "url": null,
+              "name": "string-formatting"
+            }
+          ],
+          "prerequisites": [
+            {
+              "url": "https://github.com/exercism/v3/tree/master/reference/types/string.md",
+              "name": "strings"
+            },
+            {
+              "url": "https://github.com/exercism/v3/tree/master/reference/concepts/classes.md",
+              "name": "classes"
+            },
+            {
+              "url": "https://github.com/exercism/v3/tree/master/reference/concepts/loops.md",
+              "name": "loops"
+            },
+            {
+              "url": "https://github.com/exercism/v3/tree/master/reference/types/list.md",
+              "name": "lists"
+            }
+          ]
+        },
+        {
           "url": "https://github.com/exercism/v3/tree/master/languages/python/exercises/concept/inventory-management",
           "slug": "inventory-management",
           "concepts": [
@@ -4050,10 +4094,6 @@
             }
           ],
           "prerequisites": [
-            {
-              "url": "https://github.com/exercism/v3/tree/master/reference/concepts/comparisons.md",
-              "name": "comparisons"
-            },
             {
               "url": "https://github.com/exercism/v3/tree/master/reference/concepts/conditionals.md",
               "name": "conditionals"
@@ -4293,22 +4333,6 @@
           ]
         },
         {
-          "url": "https://github.com/exercism/v3/tree/master/languages/ruby/exercises/concept/booleans",
-          "slug": "booleans",
-          "concepts": [
-            {
-              "url": "https://github.com/exercism/v3/tree/master/reference/types/boolean.md",
-              "name": "booleans"
-            }
-          ],
-          "prerequisites": [
-            {
-              "url": null,
-              "name": "instance-variables"
-            }
-          ]
-        },
-        {
           "url": "https://github.com/exercism/v3/tree/master/languages/ruby/exercises/concept/instance-variables",
           "slug": "instance-variables",
           "concepts": [
@@ -4457,6 +4481,26 @@
             {
               "url": "https://github.com/exercism/v3/tree/master/reference/types/struct.md",
               "name": "structs"
+            }
+          ]
+        },
+        {
+          "url": "https://github.com/exercism/v3/tree/master/languages/rust/exercises/concept/vec-macro",
+          "slug": "vec-macro",
+          "concepts": [
+            {
+              "url": null,
+              "name": "vec-macro"
+            }
+          ],
+          "prerequisites": [
+            {
+              "url": null,
+              "name": "intro-fn"
+            },
+            {
+              "url": "https://github.com/exercism/v3/tree/master/reference/types/number.md",
+              "name": "numbers"
             }
           ]
         }

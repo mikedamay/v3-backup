@@ -32,6 +32,12 @@ These will be in the codebase. They're unordered.
 - **Docker:** Have a Docs PR merged _(How do we automate this? Webhooks listening to certain dirs?)_
 - **Badger:** Suggest a badge that is added to the website _(How do we automate this? Probably manual?)_
 
+## May be implemented by the community
+
+These badges will be implementable by PRs from the community nearer the time of v3 launch. We will announce when the repo is open for those PRs.
+
+- **Wednesday Warrior:** Only submit solutions on Wednesdays for 4 consecutive weeks
+
 ## Under Consideration
 
 - **Streaked:** Solve at least one exercise a day X days in a row
@@ -112,3 +118,4 @@ A collection of unsorted ideas. Move one of these into "To Be Implemented" if yo
 - We'll do it live: Live stream a solution
 - Flawless: first iteration passes all the tests and has no feedback
 - Command-liner: submit 10+ exercises through the CLI
+- Where did it go?: completed an exercise that has since been deprecated
